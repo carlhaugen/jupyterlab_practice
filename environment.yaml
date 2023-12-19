@@ -1,0 +1,7 @@
+name: jupyterlab-practice
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+prefix: C:\Users\danis\miniconda3\envs\jupyterlab-practice
